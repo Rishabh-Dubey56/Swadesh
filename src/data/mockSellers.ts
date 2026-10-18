@@ -1,0 +1,88 @@
+import { SellerProfile } from "@/types";
+
+export const MOCK_SELLERS: SellerProfile[] = [
+  {
+    id: "seller-bunkar-samiti",
+    storeName: "Varanasi Bunkar Weavers Co-operative",
+    slug: "varanasi-bunkar-weavers",
+    artisanLeader: "Haji Mohammad Irfan",
+    stateId: "uttar-pradesh",
+    stateName: "Uttar Pradesh",
+    craftSpeciality: "Authentic Kadhwa Banarasi Brocades",
+    description:
+      "A collective of 180 traditional handloom families across Madanpura, dedicated to preserving 500-year-old pit loom weaving traditions with certified pure silk and tested zari.",
+    rating: 4.9,
+    totalProducts: 48,
+    totalSales: 1240,
+    bannerImage: "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1200&q=80",
+    logoImage: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80",
+    contactEmail: "bunkar.varanasi@swadesh.crafts",
+    contactPhone: "+91 94500 12890",
+    city: "Varanasi",
+    verified: true,
+  },
+  {
+    id: "seller-kashmir-guild",
+    storeName: "Srinagar Pashmina & Sozni Guild",
+    slug: "srinagar-pashmina-guild",
+    artisanLeader: "Ustad Ghulam Hassan Mir",
+    stateId: "jammu-and-kashmir",
+    stateName: "Jammu and Kashmir",
+    craftSpeciality: "GI Certified Changthangi Pashmina",
+    description:
+      "Protecting authentic Ladakhi cashmere and Kashmiri hand-spinning with certified GI authentication, fair minimum wages, and women charkha spinners' support.",
+    rating: 5.0,
+    totalProducts: 32,
+    totalSales: 890,
+    bannerImage: "https://images.unsplash.com/photo-1607522370275-f14206abe5d3?auto=format&fit=crop&w=1200&q=80",
+    logoImage: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=400&q=80",
+    contactEmail: "pashmina.srinagar@swadesh.crafts",
+    contactPhone: "+91 94190 44521",
+    city: "Srinagar",
+    verified: true,
+  },
+  {
+    id: "seller-kanchipuram-guild",
+    storeName: "Kanchipuram Master Weavers Guild",
+    slug: "kanchipuram-weavers-guild",
+    artisanLeader: "Devika Ramanathan",
+    stateId: "tamil-nadu",
+    stateName: "Tamil Nadu",
+    craftSpeciality: "Heavy Korvai 3-Ply Silk Weaves",
+    description:
+      "Generational weaver families upholding temple border Korvai handloom weaving with gold-dipped silver zari and natural rice starch sizing.",
+    rating: 4.9,
+    totalProducts: 40,
+    totalSales: 1105,
+    bannerImage: "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=1200&q=80",
+    logoImage: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+    contactEmail: "kanchipuram.weavers@swadesh.crafts",
+    contactPhone: "+91 98401 77312",
+    city: "Kanchipuram",
+    verified: true,
+  },
+  {
+    id: "seller-kutch-collective",
+    storeName: "Kutch Khatri Artisan Collective",
+    slug: "kutch-khatri-collective",
+    artisanLeader: "Babulal Prajapati",
+    stateId: "gujarat",
+    stateName: "Gujarat",
+    craftSpeciality: "Ajrakh Natural Dye Block Print & Rai Bandhani",
+    description:
+      "A collective of 90 Khatri printers and tie-dye artisans working exclusively with plant-based indigo, harda, and madder root in the Great Rann of Kutch.",
+    rating: 4.8,
+    totalProducts: 54,
+    totalSales: 1650,
+    bannerImage: "https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=1200&q=80",
+    logoImage: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=400&q=80",
+    contactEmail: "kutch.khatri@swadesh.crafts",
+    contactPhone: "+91 98252 66314",
+    city: "Bhuj",
+    verified: true,
+  },
+];
+
+export function getSellerById(id: string): SellerProfile | undefined {
+  return MOCK_SELLERS.find((s) => s.id === id || s.slug === id);
+}
