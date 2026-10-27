@@ -101,7 +101,7 @@ export const ARTISANS: Artisan[] = [
     craftSpeciality: "Authentic Pen-Drawn Kalamkari Natural Painting",
     experienceYears: 31,
     avatar: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=400&q=80",
-    workshopImage: "https://images.unsplash.com/photo-1600100397608-f010e42e05df?auto=format&fit=crop&w=1200&q=80",
+    workshopImage: "https://images.unsplash.com/photo-1596178065887-1198b6148b2b?auto=format&fit=crop&w=1200&q=80",
     shortBio:
       "Temple artisan using bamboo pens, buffalo milk, and fermented iron jaggery to illustrate Indian epics on organic unbleached cotton.",
     fullStory:

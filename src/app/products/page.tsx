@@ -7,6 +7,7 @@ import { ProductCard } from "@/components/products/ProductCard";
 import { ProductFilters, FilterState } from "@/components/products/ProductFilters";
 import { ShoppingBag, SlidersHorizontal, X } from "lucide-react";
 import { Button } from "@/components/ui/Button";
+import { ScrollReveal, StaggerGroup, StaggerItem } from "@/components/ui/ScrollAnimation";
 
 function ProductListingContent() {
   const searchParams = useSearchParams();
@@ -71,7 +72,7 @@ function ProductListingContent() {
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 sm:py-12 space-y-8">
       {/* Title & Banner */}
-      <div className="border-b border-[#E8DCCD] pb-6">
+      <ScrollReveal className="border-b border-[#E8DCCD] pb-6" duration={0.6}>
         <span className="text-xs uppercase font-bold tracking-[0.2em] text-[#C7A46A]">
           Authentic Loom Catalogue
         </span>
@@ -150,7 +151,7 @@ function ProductListingContent() {
             </Button>
           </div>
         </div>
-      </div>
+      </ScrollReveal>
 
       {/* Main Grid & Filters Layout */}
       <div className="grid grid-cols-1 lg:grid-cols-4 gap-8">
@@ -184,11 +185,13 @@ function ProductListingContent() {
               </Button>
             </div>
           ) : (
-            <div className="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-6">
+            <StaggerGroup className="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-6" staggerDelay={0.06}>
               {filteredProducts.map((product) => (
-                <ProductCard key={product.id} product={product} />
+                <StaggerItem key={product.id} yOffset={26}>
+                  <ProductCard product={product} />
+                </StaggerItem>
               ))}
-            </div>
+            </StaggerGroup>
           )}
         </div>
       </div>

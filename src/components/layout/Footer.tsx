@@ -10,6 +10,7 @@ import {
   Send,
   CheckCircle2,
 } from "lucide-react";
+import { ScrollReveal, StaggerGroup, StaggerItem } from "@/components/ui/ScrollAnimation";
 
 export function Footer() {
   const [email, setEmail] = useState("");
@@ -28,59 +29,67 @@ export function Footer() {
     <footer className="bg-[#282522] text-[#F5EBDD] pt-16 pb-12 border-t border-[#C7A46A]/30">
       {/* Upper Trust Badges Banner */}
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-12 border-b border-[#776B5E]/30">
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
-          <div className="flex flex-col items-center">
-            <div className="w-12 h-12 rounded-full bg-[#4F0E11] text-[#E0C496] flex items-center justify-center mb-3">
-              <ShieldCheck className="w-6 h-6" />
+        <StaggerGroup className="grid grid-cols-2 md:grid-cols-4 gap-6 text-center" staggerDelay={0.08}>
+          <StaggerItem yOffset={25}>
+            <div className="flex flex-col items-center">
+              <div className="w-12 h-12 rounded-full bg-[#4F0E11] text-[#E0C496] flex items-center justify-center mb-3">
+                <ShieldCheck className="w-6 h-6" />
+              </div>
+              <h4 className="font-serif font-semibold text-sm text-[#E0C496]">
+                100% Handloom Certified
+              </h4>
+              <p className="text-xs text-[#EAE2D5]/70 mt-1">
+                Silk Mark India &amp; GI Tagged Authenticity
+              </p>
             </div>
-            <h4 className="font-serif font-semibold text-sm text-[#E0C496]">
-              100% Handloom Certified
-            </h4>
-            <p className="text-xs text-[#EAE2D5]/70 mt-1">
-              Silk Mark India &amp; GI Tagged Authenticity
-            </p>
-          </div>
+          </StaggerItem>
 
-          <div className="flex flex-col items-center">
-            <div className="w-12 h-12 rounded-full bg-[#4F0E11] text-[#E0C496] flex items-center justify-center mb-3">
-              <Award className="w-6 h-6" />
+          <StaggerItem yOffset={25}>
+            <div className="flex flex-col items-center">
+              <div className="w-12 h-12 rounded-full bg-[#4F0E11] text-[#E0C496] flex items-center justify-center mb-3">
+                <Award className="w-6 h-6" />
+              </div>
+              <h4 className="font-serif font-semibold text-sm text-[#E0C496]">
+                Direct to Loom Fair Trade
+              </h4>
+              <p className="text-xs text-[#EAE2D5]/70 mt-1">
+                Direct value to 500+ master weaver families
+              </p>
             </div>
-            <h4 className="font-serif font-semibold text-sm text-[#E0C496]">
-              Direct to Loom Fair Trade
-            </h4>
-            <p className="text-xs text-[#EAE2D5]/70 mt-1">
-              Direct value to 500+ master weaver families
-            </p>
-          </div>
+          </StaggerItem>
 
-          <div className="flex flex-col items-center">
-            <div className="w-12 h-12 rounded-full bg-[#4F0E11] text-[#E0C496] flex items-center justify-center mb-3">
-              <RefreshCw className="w-6 h-6" />
+          <StaggerItem yOffset={25}>
+            <div className="flex flex-col items-center">
+              <div className="w-12 h-12 rounded-full bg-[#4F0E11] text-[#E0C496] flex items-center justify-center mb-3">
+                <RefreshCw className="w-6 h-6" />
+              </div>
+              <h4 className="font-serif font-semibold text-sm text-[#E0C496]">
+                7-Day Cultural Heritage Returns
+              </h4>
+              <p className="text-xs text-[#EAE2D5]/70 mt-1">
+                Hassle-free doorstep exchanges &amp; returns
+              </p>
             </div>
-            <h4 className="font-serif font-semibold text-sm text-[#E0C496]">
-              7-Day Cultural Heritage Returns
-            </h4>
-            <p className="text-xs text-[#EAE2D5]/70 mt-1">
-              Hassle-free doorstep exchanges &amp; returns
-            </p>
-          </div>
+          </StaggerItem>
 
-          <div className="flex flex-col items-center">
-            <div className="w-12 h-12 rounded-full bg-[#4F0E11] text-[#E0C496] flex items-center justify-center mb-3">
-              <Sparkles className="w-6 h-6" />
+          <StaggerItem yOffset={25}>
+            <div className="flex flex-col items-center">
+              <div className="w-12 h-12 rounded-full bg-[#4F0E11] text-[#E0C496] flex items-center justify-center mb-3">
+                <Sparkles className="w-6 h-6" />
+              </div>
+              <h4 className="font-serif font-semibold text-sm text-[#E0C496]">
+                28 States, Infinite Stories
+              </h4>
+              <p className="text-xs text-[#EAE2D5]/70 mt-1">
+                Preserving living traditions across India
+              </p>
             </div>
-            <h4 className="font-serif font-semibold text-sm text-[#E0C496]">
-              28 States, Infinite Stories
-            </h4>
-            <p className="text-xs text-[#EAE2D5]/70 mt-1">
-              Preserving living traditions across India
-            </p>
-          </div>
-        </div>
+          </StaggerItem>
+        </StaggerGroup>
       </div>
 
       {/* Main Footer Links & Newsletter */}
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <ScrollReveal className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12" yOffset={30} duration={0.7}>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-10">
           {/* Brand Column */}
           <div className="lg:col-span-2 space-y-4">
@@ -250,10 +259,10 @@ export function Footer() {
             </ul>
           </div>
         </div>
-      </div>
+      </ScrollReveal>
 
       {/* Simulated Payment Notice & Copyright */}
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-8 border-t border-[#776B5E]/30 flex flex-col md:flex-row items-center justify-between gap-4 text-center md:text-left text-xs text-[#776B5E]">
+      <ScrollReveal className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-8 border-t border-[#776B5E]/30 flex flex-col md:flex-row items-center justify-between gap-4 text-center md:text-left text-xs text-[#776B5E]" yOffset={20} delay={0.1}>
         <div>
           <p className="text-[11px] text-[#EAE2D5]/60">
             © {new Date().getFullYear()} SWADESH Cultural Marketplace. Crafted with reverence for India&apos;s 7 million handloom artisans.
@@ -267,7 +276,7 @@ export function Footer() {
           <span>Accepted (Simulated):</span>
           <span className="text-[#C7A46A]">UPI</span> • <span>RuPay</span> • <span>NetBanking</span> • <span>Visa / MC</span> • <span>COD</span>
         </div>
-      </div>
+      </ScrollReveal>
     </footer>
   );
 }

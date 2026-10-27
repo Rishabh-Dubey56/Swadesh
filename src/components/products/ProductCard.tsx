@@ -16,12 +16,17 @@ export interface ProductCardProps {
 }
 
 export function ProductCard({ product }: ProductCardProps) {
+  const [mounted, setMounted] = useState(false);
   const [isHovered, setIsHovered] = useState(false);
   const [addedAnimation, setAddedAnimation] = useState(false);
 
   const addItem = useCartStore((s) => s.addItem);
   const { isInWishlist, toggleWishlist } = useWishlistStore();
-  const wishlisted = isInWishlist(product.id);
+  const wishlisted = mounted ? isInWishlist(product.id) : false;
+
+  React.useEffect(() => {
+    setMounted(true);
+  }, []);
 
   const handleQuickAdd = (e: React.MouseEvent) => {
     e.preventDefault();

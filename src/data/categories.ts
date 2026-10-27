@@ -60,7 +60,7 @@ export const CATEGORIES: ProductCategory[] = [
     name: "Cultural Accents",
     slug: "cultural-home",
     description: "Brass diyas, Madhubani wall tapestries, blue pottery, and handwoven throws.",
-    image: "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?auto=format&fit=crop&w=800&q=80",
+    image: "https://images.unsplash.com/photo-1578925518470-4def7a0f08bb?auto=format&fit=crop&w=800&q=80",
     itemCount: 22,
     featured: false,
   },

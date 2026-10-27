@@ -20,7 +20,6 @@ export const PRODUCTS: Product[] = [
     images: [
       "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1000&q=80",
       "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=1000&q=80",
     ],
     shortDescription:
       "A masterpiece from Varanasi looms featuring fine kadhwa floral vines in tested silver zari on deep crimson katan mulberry silk.",
@@ -83,7 +82,7 @@ export const PRODUCTS: Product[] = [
     reviewCount: 44,
     images: [
       "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1596704017254-9b121068fb31?auto=format&fit=crop&w=1000&q=80",
     ],
     shortDescription:
       "Handcrafted in Kanchipuram using ancient Korvai interlock, featuring gopuram temple spires and real silver dipped zari.",
@@ -187,8 +186,9 @@ export const PRODUCTS: Product[] = [
     rating: 4.9,
     reviewCount: 52,
     images: [
-      "https://images.unsplash.com/photo-1594744803329-e58b31de8bf5?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1558769132-cb1aea458c5e?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=1000&q=80",
     ],
     shortDescription:
       "Awadhi craftsmanship featuring 32 traditional shadow-work stitches and hand-hammered pure silver mukaish dots on pure mulmul cotton.",
@@ -230,7 +230,8 @@ export const PRODUCTS: Product[] = [
     reviewCount: 16,
     images: [
       "https://images.unsplash.com/photo-1594744803329-e58b31de8bf5?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=1000&q=80",
     ],
     shortDescription:
       "Over 40,000 microscopic rai-knot ties on pure 60g georgette with hand-stitched real copper gota patti borders.",
@@ -269,8 +270,8 @@ export const PRODUCTS: Product[] = [
     rating: 4.8,
     reviewCount: 29,
     images: [
-      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1562157873-818bc0726f68?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=1000&q=80",
     ],
     shortDescription:
       "Lightweight gossamer weave blending cotton warp and silk weft with traditional gold zari ashrafi medallion coins.",
@@ -309,8 +310,8 @@ export const PRODUCTS: Product[] = [
     rating: 4.8,
     reviewCount: 27,
     images: [
-      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1508427953056-b00b8d78ebf5?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1000&q=80",
     ],
     shortDescription:
       "Hand-blocked with carved teak blocks using natural indigo and alizarin madder on breathable European-flax organic linen.",
@@ -349,8 +350,8 @@ export const PRODUCTS: Product[] = [
     rating: 4.8,
     reviewCount: 33,
     images: [
-      "https://images.unsplash.com/photo-1607522370275-f14206abe5d3?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1594744803329-e58b31de8bf5?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=1000&q=80",
     ],
     shortDescription:
       "A complete floral garden hand-darned from the reverse with golden pat silk floss on handspun khaddar cotton.",
@@ -388,8 +389,8 @@ export const PRODUCTS: Product[] = [
     rating: 4.9,
     reviewCount: 31,
     images: [
-      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1606760227091-3dd870d97f1d?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1596704017254-9b121068fb31?auto=format&fit=crop&w=1000&q=80",
     ],
     shortDescription:
       "The queen of Maharashtrian silks featuring double-cloth border and hand-interlocked kaleidoscopic peacock (mor) pallu.",
@@ -429,7 +430,7 @@ export const PRODUCTS: Product[] = [
     reviewCount: 14,
     images: [
       "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=1000&q=80",
     ],
     shortDescription:
       "A 4,000-year ancient metal-casting marvel hand-moulded with beeswax threads by the Ghadwa tribal artisans of Bastar.",
@@ -465,7 +466,7 @@ export const PRODUCTS: Product[] = [
     reviewCount: 41,
     images: [
       "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1000&q=80",
     ],
     shortDescription:
       "Naturally vegetable-tanned with babool bark, hand-punched, and hand-stitched with braided leather cords without metal nails.",
@@ -503,8 +504,8 @@ export const PRODUCTS: Product[] = [
     rating: 4.9,
     reviewCount: 18,
     images: [
-      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1600100397608-f010e42e05df?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1588099768531-a72d4a198538?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1596178065887-1198b6148b2b?auto=format&fit=crop&w=1000&q=80",
     ],
     shortDescription:
       "Freehand painted with bamboo pens using fermented jaggery, myrobalan, and wild indigo on wild Tussar silk.",
@@ -525,6 +526,115 @@ export const PRODUCTS: Product[] = [
     stockCount: 10,
     isNewArrival: true,
     sku: "SWD-AP-KALAM-012",
+  },
+  {
+    id: "prod-kashmiri-pheran",
+    name: "Kashmiri Pheran",
+    slug: "kashmiri-pheran",
+    stateId: "jammu-and-kashmir",
+    stateName: "Jammu & Kashmir",
+    region: "Northern India",
+    categorySlug: "kurtas-sets",
+    categoryName: "Women's Wear",
+    craftType: "Traditional Hand Embroidered Pheran",
+    gender: "Women",
+    price: 2499,
+    originalPrice: 3499,
+    discountPercent: 29,
+    rating: 4.7,
+    reviewCount: 128,
+    images: [
+      "/images/kashmiri-pheran.jpg",
+      "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1485230895905-ec40ba36b9bc?auto=format&fit=crop&w=1000&q=80",
+    ],
+    shortDescription:
+      "Beautifully handcrafted pheran with intricate Aari embroidery. Perfect for winter and special occasions.",
+    fullDescription:
+      "This traditional Kashmiri Pheran is handcrafted by skilled artisans in Srinagar using premium wool blend fabric. Adorned with delicate Aari needle embroidery along the neckline, cuffs, and hemline with traditional paisley motifs, it represents centuries of Himalayan cultural refinement. The relaxed silhouette provides both warmth and timeless elegance.",
+    fabric: "Pure Wool Blend with Silk-Thread Aari Embroidery",
+    craftTechnique: "Authentic Hand-Guided Aari Needlework",
+    careInstructions: "Dry Clean Only. Store wrapped in pure unbleached muslin.",
+    origin: "Srinagar, Jammu & Kashmir",
+    sellerId: "seller-kashmir-guild",
+    sellerName: "Srinagar Pashmina & Sozni Guild",
+    sizes: ["M", "L", "XL", "XXL"],
+    colors: [
+      { name: "Grey", hex: "#7E8287" },
+      { name: "Maroon", hex: "#6E171B" },
+      { name: "Teal", hex: "#1D4D4F" },
+      { name: "Black", hex: "#222222" },
+      { name: "Rust", hex: "#8B4513" },
+    ],
+    inStock: true,
+    stockCount: 24,
+    isTrending: true,
+    isBestSeller: true,
+    isNewArrival: true,
+    sku: "SWD-JK-PHERAN-001",
+    reviews: [
+      {
+        id: "rev-jk-1",
+        author: "Zoya Akhtar",
+        rating: 5,
+        date: "2026-03-01",
+        title: "Magnificent craftsmanship",
+        comment:
+          "The Aari embroidery is so fine and detailed. Perfect fit, exceptionally warm and feels like true Kashmir heritage.",
+        verifiedBuyer: true,
+      },
+      {
+        id: "rev-jk-2",
+        author: "Pooja Hegde",
+        rating: 4,
+        date: "2026-02-18",
+        title: "Pure elegance",
+        comment: "Received so many compliments at a winter wedding. Beautiful drape.",
+        verifiedBuyer: true,
+      },
+    ],
+  },
+  {
+    id: "prod-kashmiri-pashmina-shawl",
+    name: "Hand-Spun Changthangi Pashmina Shawl",
+    slug: "hand-spun-changthangi-pashmina-shawl",
+    stateId: "jammu-and-kashmir",
+    stateName: "Jammu & Kashmir",
+    region: "Northern India",
+    categorySlug: "shawls-dupattas",
+    categoryName: "Shawls & Wraps",
+    craftType: "GI Certified Pashmina with Sozni Needlework",
+    gender: "Unisex",
+    price: 16500,
+    originalPrice: 21000,
+    discountPercent: 21,
+    rating: 4.9,
+    reviewCount: 42,
+    images: [
+      "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=1000&q=80",
+    ],
+    shortDescription:
+      "Pure GI certified Changthangi goat cashmere hand-spun on wooden charkhas and hand-embroidered with micro Sozni needlework.",
+    fullDescription:
+      "Crafted from the underfleece of high-altitude Changthangi goats living at 14,000 feet in Ladakh, this shawl is hand-spun by master women spinners in Downtown Srinagar. Embellished with needlepoint Sozni floral borders requiring three months of dedicated craftsmanship.",
+    fabric: "100% Pure GI-Tagged Changthangi Pashmina Cashmere",
+    craftTechnique: "Hand-spun Charkha Yarn & Handloom Weave with Sozni Needlework",
+    careInstructions: "Professional Dry Clean Only.",
+    origin: "Downtown Srinagar, Jammu & Kashmir",
+    sellerId: "seller-kashmir-guild",
+    sellerName: "Srinagar Pashmina & Sozni Guild",
+    sizes: ["2m x 1m (Standard Shawl)"],
+    colors: [
+      { name: "Natural Ivory Cashmere", hex: "#FFF9F0" },
+      { name: "Walnut Bark Grey", hex: "#776B5E" },
+      { name: "Kashmir Crimson", hex: "#6E171B" },
+    ],
+    inStock: true,
+    stockCount: 6,
+    isTrending: true,
+    isBestSeller: true,
+    sku: "SWD-JK-PASH-002",
   },
 ];
 

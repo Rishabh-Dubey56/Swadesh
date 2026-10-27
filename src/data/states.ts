@@ -12,8 +12,8 @@ export const INDIAN_STATES: IndianState[] = [
       "Famed for natural-dyed Kalamkari hand-paintings, celestial Mangalagiri cottons, and translucent Uppada Jamdani sarees.",
     fullDescription:
       "Andhra Pradesh holds a sacred legacy in India's textile story. From the temple artists of Srikalahasti painting mythological tapestries with natural tamarind dyes, to the master weavers of Uppada crafting Jamdani motifs so delicate they seem woven from morning mist, the state represents timeless artisan refinement.",
-    heroImage: "https://images.unsplash.com/photo-1600100397608-f010e42e05df?auto=format&fit=crop&w=1600&q=80",
-    thumbImage: "https://images.unsplash.com/photo-1600100397608-f010e42e05df?auto=format&fit=crop&w=600&q=80",
+    heroImage: "https://images.unsplash.com/photo-1518457607834-6e8d80c183c5?auto=format&fit=crop&w=1600&q=80",
+    thumbImage: "https://images.unsplash.com/photo-1627894483216-2138af692e32?auto=format&fit=crop&w=600&q=80",
     traditionalAttire: {
       men: "Pancha & Angavastram with zari border",
       women: "Uppada Jamdani or Mangalagiri Cotton Saree",
@@ -37,7 +37,7 @@ export const INDIAN_STATES: IndianState[] = [
       "Indigenous backstrap loom textiles, bamboo cane craft, and vibrant geometric tribal shawls crafted by master weavers.",
     fullDescription:
       "In the mist-crowned valleys of Arunachal Pradesh, weaving is an integral part of community identity. The Apatani, Adi, Monpa, and Nyishi tribes create distinct backstrap-loomed tapestries, ceremonial coats, and woven beadwork that mirror the sacred rhythms of Himalayan wildlife and forest spirits.",
-    heroImage: "https://images.unsplash.com/photo-1544735716-392fe2489ffa?auto=format&fit=crop&w=1600&q=80",
+    heroImage: "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1600&q=80",
     thumbImage: "https://images.unsplash.com/photo-1544735716-392fe2489ffa?auto=format&fit=crop&w=600&q=80",
     traditionalAttire: {
       men: "Gale woven wrap, sleeveless jacket, and woven cane helmet",
@@ -62,7 +62,7 @@ export const INDIAN_STATES: IndianState[] = [
       "Home to celestial Muga golden silk, ahimsa Eri wild silk, and the iconic handwoven Mekhela Chador.",
     fullDescription:
       "Assam is world-renowned for its indigenous wild silks found nowhere else on earth. Sualkuchi, known as the 'Manchester of Assam', hums with the wooden rhythm of throw-shuttle looms crafting shimmering Muga silk that grows more golden with every wash.",
-    heroImage: "https://images.unsplash.com/photo-1571508601891-ca5e7a713859?auto=format&fit=crop&w=1600&q=80",
+    heroImage: "https://images.unsplash.com/photo-1497436072909-60f360e1d4b1?auto=format&fit=crop&w=1600&q=80",
     thumbImage: "https://images.unsplash.com/photo-1571508601891-ca5e7a713859?auto=format&fit=crop&w=600&q=80",
     traditionalAttire: {
       men: "Dhoti, Kurta and Gamosa woven neck scarf",
@@ -87,8 +87,8 @@ export const INDIAN_STATES: IndianState[] = [
       "Sacred Madhubani folklore hand-painted sarees, golden Bhagalpur tussar silk, and delicate Sikki grass crafts.",
     fullDescription:
       "Bihar's artistic heritage reaches into antiquity. Women in Mithila preserve ancient wall-painting traditions on handspun tussar sarees, depicting Kohbar motifs of life, nature, and divine balance using fine bamboo nibs and natural earth pigments.",
-    heroImage: "https://images.unsplash.com/photo-1609137144820-21a1b32d2df1?auto=format&fit=crop&w=1600&q=80",
-    thumbImage: "https://images.unsplash.com/photo-1609137144820-21a1b32d2df1?auto=format&fit=crop&w=600&q=80",
+    heroImage: "https://images.unsplash.com/photo-1506461883276-594a12b11cf3?auto=format&fit=crop&w=1600&q=80",
+    thumbImage: "https://images.unsplash.com/photo-1568084680786-a84f91d1153c?auto=format&fit=crop&w=600&q=80",
     traditionalAttire: {
       men: "Kurta-Pajama with Bhagalpuri silk stole",
       women: "Madhubani painted Tussar Silk Saree",
@@ -112,8 +112,8 @@ export const INDIAN_STATES: IndianState[] = [
       "Lost-wax metal casting of Bastar and lustrous hand-reeled wild Kosa silk spun deep within Sal forests.",
     fullDescription:
       "In the verdant heartland of Chhattisgarh, tribal artisans practice 4,000-year-old Harappan Dhokra casting, sculpting bronze figurines with beeswax threads. Concurrently, weavers of Champa harvest wild Kosa cocoons to weave raw, earthy silks of royal distinction.",
-    heroImage: "https://images.unsplash.com/photo-1596401057633-54a8fe8ef647?auto=format&fit=crop&w=1600&q=80",
-    thumbImage: "https://images.unsplash.com/photo-1596401057633-54a8fe8ef647?auto=format&fit=crop&w=600&q=80",
+    heroImage: "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1600&q=80",
+    thumbImage: "https://images.unsplash.com/photo-1433086966358-54859d0ed716?auto=format&fit=crop&w=600&q=80",
     traditionalAttire: {
       men: "Dhoti-Panchi with tribal bead ornaments",
       women: "Lugda saree draped in traditional tribal style with Pola jewellery",
@@ -137,7 +137,7 @@ export const INDIAN_STATES: IndianState[] = [
       "Revived tribal Kunbi checkered sarees, hand-chiseled wooden carvings, and Indo-Portuguese brassware.",
     fullDescription:
       "Beyond sun-drenched coastlines lies Goa's rich artisanal memory. The Kunbi saree—a striking red and white checkered handloom once worn by indigenous tribal farmers—has been revived as a high-fashion symbol of sustainable coastal identity.",
-    heroImage: "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?auto=format&fit=crop&w=1600&q=80",
+    heroImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1600&q=80",
     thumbImage: "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?auto=format&fit=crop&w=600&q=80",
     traditionalAttire: {
       men: "Handloom cotton shirt and dhoti wrap",
@@ -162,8 +162,8 @@ export const INDIAN_STATES: IndianState[] = [
       "World-acclaimed Patan Patola double ikat, Kutch Ajrakh hand-block printing, and kaleidoscope Rabari mirror embroidery.",
     fullDescription:
       "Gujarat is a crown jewel of textile mastery. In Patan, master Salvi weavers spend over six months aligning resist-dyed warp and weft silk yarns so that both sides of a Patola saree are indistinguishable. Across the Rann of Kutch, artisans stamp indigo Ajrakh geometry and sew shimmering mirrors that ward off the desert sun.",
-    heroImage: "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&w=1600&q=80",
-    thumbImage: "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&w=600&q=80",
+    heroImage: "https://images.unsplash.com/photo-1577717903315-1691ae25ab3f?auto=format&fit=crop&w=1600&q=80",
+    thumbImage: "https://images.unsplash.com/photo-1616423640778-28d1b53229bd?auto=format&fit=crop&w=600&q=80",
     traditionalAttire: {
       men: "Kediyu flared tunic, Chorno trousers, and Bandhani pagdi",
       women: "Chaniya Choli adorned with Kutchi mirrorwork and Bandhani odhni",
@@ -187,8 +187,8 @@ export const INDIAN_STATES: IndianState[] = [
       "Sturdy hand-knotted Panja floor rugs, Rewari brass craftsmanship, and embroidered Daman skirts.",
     fullDescription:
       "Haryana blends pastoral vigor with refined agrarian craftsmanship. Panipat is known as the textile city where traditional wooden Panja looms interweave coarse wool and cotton into geometric dhurries, while Rewari metalworkers produce gleaming engraved brass urns and ceremonial vessels.",
-    heroImage: "https://images.unsplash.com/photo-1598890777032-bde835ba27c2?auto=format&fit=crop&w=1600&q=80",
-    thumbImage: "https://images.unsplash.com/photo-1598890777032-bde835ba27c2?auto=format&fit=crop&w=600&q=80",
+    heroImage: "https://images.unsplash.com/photo-1591825729269-caeb344f6df2?auto=format&fit=crop&w=1600&q=80",
+    thumbImage: "https://images.unsplash.com/photo-1587474260584-136574528ed5?auto=format&fit=crop&w=600&q=80",
     traditionalAttire: {
       men: "Kurta, Dhoti and colourful Pagri (turban)",
       women: "Daman flared skirt, Kurti, and Chunder embroidered veil",
@@ -212,7 +212,7 @@ export const INDIAN_STATES: IndianState[] = [
       "Fine geometric patterned Kullu shawls, intricate Kinnauri border weaves, and hand-embroidered Chamba Rumals.",
     fullDescription:
       "In the snow-clad Himalayas of Himachal Pradesh, weaving sheep and pashmina wool has been perfected over centuries. The Kullu and Kinnauri shawls carry distinct sacred geometric borders in jewel tones, while Chamba Rumals feature double-sided needlework where the reverse side is identical to the front.",
-    heroImage: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1600&q=80",
+    heroImage: "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1600&q=80",
     thumbImage: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=600&q=80",
     traditionalAttire: {
       men: "Pattu woolen coat, Pyjama and Kullu woolen topi with velvet band",
@@ -227,6 +227,31 @@ export const INDIAN_STATES: IndianState[] = [
     storyIds: ["story-kullu-geometric-weaves"],
   },
   {
+    id: "jammu-and-kashmir",
+    name: "Jammu & Kashmir",
+    slug: "jammu-and-kashmir",
+    region: "Northern India",
+    capital: "Srinagar (Summer), Jammu (Winter)",
+    tagline: "Heaven of Natural Beauty and Timeless Traditions",
+    shortDescription:
+      "The traditional attire of Kashmir reflects elegance, warmth and rich cultural heritage.",
+    fullDescription:
+      "Nestled among the snow-crowned peaks of the Himalayas, Jammu & Kashmir possesses a venerable legacy of artisanal craftsmanship. From the legendary Changthangi Pashmina woven with needle-thin sozni embroidery, to the iconic loose silhouette of the Aari-embroidered Pheran, and walnut wood carvings, Kashmir's cultural heritage represents the sublime zenith of Indian decorative art.",
+    heroImage: "/images/kashmir-hero.jpg",
+    thumbImage: "https://images.unsplash.com/photo-1595815771614-ade9d652a65d?auto=format&fit=crop&w=600&q=80",
+    traditionalAttire: {
+      men: "Tweed Pheran with Shalwar and traditional woolen karakul cap",
+      women: "Intricate Aari or Tilla Embroidered Pheran with Taranga headgear and silver deharoos",
+      description: "Graceful flowing silhouettes draped in pure wool and velvet, adorned with paisleys and floral vines.",
+    },
+    famousCrafts: ["Sozni Needle Embroidery", "Aari Chain Stitch", "Paper Mâché Art", "Walnut Wood Carving", "Kani Shawl Weaving"],
+    keyTextiles: ["Pure Changthangi Pashmina", "Aari Embroidered Woolen Pheran", "Kani Jamawar", "Kashmiri Silk Carpet"],
+    culturalHighlights: ["Dal Lake Floating Gardens & Shikaras", "Mughal Shalimar & Nishat Gardens", "Sufiana Music Traditions"],
+    featuredProductIds: ["prod-kashmiri-pheran"],
+    artisanIds: ["artisan-ghulam-mir"],
+    storyIds: ["story-kashmiri-pashmina"],
+  },
+  {
     id: "jharkhand",
     name: "Jharkhand",
     slug: "jharkhand",
@@ -237,8 +262,8 @@ export const INDIAN_STATES: IndianState[] = [
       "GI-tagged Sohrai & Khovar mud wall art translated to textiles, Kuchai tussar silk, and bamboo tribal crafts.",
     fullDescription:
       "Jharkhand’s forests are sanctuaries of indigenous art. The Santhal, Oraon, and Ho communities celebrate harvest and weddings with Sohrai and Khovar paintings—monumental motifs of lotus, elephants, and peacocks hand-scratched into clay and now printed on lustrous wild Kuchai tussar silks.",
-    heroImage: "https://images.unsplash.com/photo-1626014303757-646700085a1a?auto=format&fit=crop&w=1600&q=80",
-    thumbImage: "https://images.unsplash.com/photo-1626014303757-646700085a1a?auto=format&fit=crop&w=600&q=80",
+    heroImage: "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1600&q=80",
+    thumbImage: "https://images.unsplash.com/photo-1506461883276-594a12b11cf3?auto=format&fit=crop&w=600&q=80",
     traditionalAttire: {
       men: "Bhagwan loin-wrap or Kurta with tribal gamchha",
       women: "Parhan and Panchi two-piece handwoven red-bordered drape",
@@ -262,7 +287,7 @@ export const INDIAN_STATES: IndianState[] = [
       "Sovereign Mysore pure mulberry silks, Ilkal chikki paras drapes, and velvet-black Bidriware inlaid with silver wire.",
     fullDescription:
       "Karnataka represents centuries of royal patronage under the Vijayanagara and Wadiyar dynasties. The legendary Mysore Silk, woven from pure gold zari and sericulture-grade silk, drapes with unmatched suppleness, while Bidar artisans inlay fine pure silver into zinc-copper alloy darkened with sacred mud.",
-    heroImage: "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&w=1600&q=80",
+    heroImage: "https://images.unsplash.com/photo-1590682680695-43b964a3ae17?auto=format&fit=crop&w=1600&q=80",
     thumbImage: "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&w=600&q=80",
     traditionalAttire: {
       men: "Panche (dhoti), Angavastram, and Mysore Peta turban with zari",
@@ -287,7 +312,7 @@ export const INDIAN_STATES: IndianState[] = [
       "Pristine off-white Kasavu sarees with gleaming golden zari borders, Bell metal Aranmula Kannadi, and coir crafts.",
     fullDescription:
       "God's Own Country celebrates minimal grandeur. The traditional Kasavu handloom from Balaramapuram and Kuthampully weaves unbleached ivory cotton with spun gold zari, embodying calm grace during Onam celebrations amidst coconut groves and backwaters.",
-    heroImage: "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=1600&q=80",
+    heroImage: "https://images.unsplash.com/photo-1616046229478-9901c5536a45?auto=format&fit=crop&w=1600&q=80",
     thumbImage: "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=600&q=80",
     traditionalAttire: {
       men: "Mundu with gold Kasavu border and Jubba / Melmundu",
@@ -312,8 +337,8 @@ export const INDIAN_STATES: IndianState[] = [
       "Gossamer silk-cotton Chanderi weaves with gold motifs, Narmada-inspired Maheshwari borders, and Bagh block prints.",
     fullDescription:
       "From the royal courts of Queen Ahilyabai Holkar in Maheshwar to the historic looms of Chanderi, Madhya Pradesh is the heart of India's lightweight royal textiles. Chanderi combines sheer cotton with raw silk for translucency, while Bagh block-printers use corrosion-resist iron and alizarin dyes.",
-    heroImage: "https://images.unsplash.com/photo-1600100397608-f010e42e05df?auto=format&fit=crop&w=1600&q=80",
-    thumbImage: "https://images.unsplash.com/photo-1600100397608-f010e42e05df?auto=format&fit=crop&w=600&q=80",
+    heroImage: "https://images.unsplash.com/photo-1618773928121-c32242e63f39?auto=format&fit=crop&w=1600&q=80",
+    thumbImage: "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?auto=format&fit=crop&w=600&q=80",
     traditionalAttire: {
       men: "Dhoti-Kurta with Chanderi Safa (turban)",
       women: "Chanderi Silk Saree with zari butis or Maheshwari Silk-Cotton Saree",
@@ -337,7 +362,7 @@ export const INDIAN_STATES: IndianState[] = [
       "Royal gold zari Paithani sarees featuring kaleidoscopic mor (peacock) pallus, Warli tribal art, and Kolhapuri chappals.",
     fullDescription:
       "With roots in the ancient Satavahana and Maratha empires, Maharashtra's Paithani saree is a masterpiece of tapestry weave. Woven by hand with pure silver and gold zari threads, its vibrant peacock and lotus pallus can take over twelve months to complete.",
-    heroImage: "https://images.unsplash.com/photo-1570168007204-dfb528c6958f?auto=format&fit=crop&w=1600&q=80",
+    heroImage: "https://images.unsplash.com/photo-1567157577867-05ccb1388e66?auto=format&fit=crop&w=1600&q=80",
     thumbImage: "https://images.unsplash.com/photo-1570168007204-dfb528c6958f?auto=format&fit=crop&w=600&q=80",
     traditionalAttire: {
       men: "Kurta, Dhoti and orange Peshwai Pheta turban",
@@ -362,8 +387,8 @@ export const INDIAN_STATES: IndianState[] = [
       "Ritual Shaphee Lanphee embroidered shawls, delicate water-reed Kauna baskets, and Inaphi translucent wraps.",
     fullDescription:
       "Manipur—meaning 'The Land of Jewels'—possesses a textile heritage honored through the Meitei royal court. The women weavers of Ima Keithel (the world's only all-women run market) craft ethereal Inaphi scarves woven with fine silk and extra weft motifs.",
-    heroImage: "https://images.unsplash.com/photo-1596401057633-54a8fe8ef647?auto=format&fit=crop&w=1600&q=80",
-    thumbImage: "https://images.unsplash.com/photo-1596401057633-54a8fe8ef647?auto=format&fit=crop&w=600&q=80",
+    heroImage: "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1600&q=80",
+    thumbImage: "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=600&q=80",
     traditionalAttire: {
       men: "Pheijom wrap, Kurta and ceremonial turban",
       women: "Phanek wrapped skirt with horizontal stripes and Inaphi sheer shawl",
@@ -387,7 +412,7 @@ export const INDIAN_STATES: IndianState[] = [
       "Sacred Ryndia non-violent eri silk naturally dyed with local roots, Khasi Jainsem drapes, and cane craft.",
     fullDescription:
       "Meghalaya's matrilineal communities hold a profound relationship with nature. In Ri-Bhoi, weavers nurture non-violent Ryndia silk worms fed on castor leaves, spinning the thermal yarn and hand-dyeing it with turmeric, madder, and lac.",
-    heroImage: "https://images.unsplash.com/photo-1589308078059-be1415eab4c3?auto=format&fit=crop&w=1600&q=80",
+    heroImage: "https://images.unsplash.com/photo-1518457607834-6e8d80c183c5?auto=format&fit=crop&w=1600&q=80",
     thumbImage: "https://images.unsplash.com/photo-1589308078059-be1415eab4c3?auto=format&fit=crop&w=600&q=80",
     traditionalAttire: {
       men: "Jymphong sleeveless coat and cotton dhoti",
@@ -412,8 +437,8 @@ export const INDIAN_STATES: IndianState[] = [
       "Exquisite Puanchei ceremonial skirts, vibrant multi-coloured loomed shawls, and refined bamboo basketry.",
     fullDescription:
       "In Mizoram’s blue highlands, every girl traditionally masters the loin loom. The Puanchei—the most prized ceremonial wrap—features intricate cross-weft geometric patterns woven in black, white, red, and yellow, passed through generations of Mizo weddings.",
-    heroImage: "https://images.unsplash.com/photo-1544735716-392fe2489ffa?auto=format&fit=crop&w=1600&q=80",
-    thumbImage: "https://images.unsplash.com/photo-1544735716-392fe2489ffa?auto=format&fit=crop&w=600&q=80",
+    heroImage: "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1600&q=80",
+    thumbImage: "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=600&q=80",
     traditionalAttire: {
       men: "White cotton coat with red & white border wrap",
       women: "Puanchei or Ngotekherh wrap skirt paired with Kawrchei blouse",
@@ -437,7 +462,7 @@ export const INDIAN_STATES: IndianState[] = [
       "Renowned Angami, Ao, and Lotha tribal shawls with geometric warrior motifs, carnelian bead necklaces, and woodcraft.",
     fullDescription:
       "The sixteen major tribes of Nagaland weave distinct stories of valor, clan prestige, and nature onto their backstrap looms. Shawls like the Tsungkotepsu of the Ao tribe symbolize high achievement and respect, crafted from thick native cotton and nettle fibers.",
-    heroImage: "https://images.unsplash.com/photo-1596401057633-54a8fe8ef647?auto=format&fit=crop&w=1600&q=80",
+    heroImage: "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1600&q=80",
     thumbImage: "https://images.unsplash.com/photo-1596401057633-54a8fe8ef647?auto=format&fit=crop&w=600&q=80",
     traditionalAttire: {
       men: "Tsungkotepsu warrior shawl, boar-tusk necklace and woven headgear",
@@ -462,8 +487,8 @@ export const INDIAN_STATES: IndianState[] = [
       "Masterful Sambalpuri tie-and-dye ikats, Jagannath temple Pattachitra paintings on palm leaves, and silver Tarakasi filigree.",
     fullDescription:
       "Odisha's artisanal heritage is deeply rooted in sacred Jagannath devotion. In the artisan village of Raghurajpur, Chitrakars paint divine narratives on treated cloth canvas using natural stone pigments. Meanwhile, Sambalpur weavers tie and dye silk yarns with mathematical perfection to produce curvilinear fish and conch Bandha ikats.",
-    heroImage: "https://images.unsplash.com/photo-1600100397608-f010e42e05df?auto=format&fit=crop&w=1600&q=80",
-    thumbImage: "https://images.unsplash.com/photo-1600100397608-f010e42e05df?auto=format&fit=crop&w=600&q=80",
+    heroImage: "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?auto=format&fit=crop&w=1600&q=80",
+    thumbImage: "https://images.unsplash.com/photo-1584551246679-0daf3d275d0f?auto=format&fit=crop&w=600&q=80",
     traditionalAttire: {
       men: "Sambalpuri Kurta with handwoven gamchha",
       women: "Sambalpuri Ikat or Bomkai Silk Saree with silver Tarakasi jewellery",
@@ -487,7 +512,7 @@ export const INDIAN_STATES: IndianState[] = [
       "Darning needle silk Phulkari dupattas on handspun Khaddar, handcrafted Punjabi Juttis, and brass utensils of Jandiala Guru.",
     fullDescription:
       "Phulkari—literally meaning 'flower work'—is the soulful folk embroidery of Punjab. Historically stitched by grandmothers onto homespun terracotta-hued khaddar using untwisted silk floss (pat), it represents celebration, harvest abundance, and maternal blessings.",
-    heroImage: "https://images.unsplash.com/photo-1598890777032-bde835ba27c2?auto=format&fit=crop&w=1600&q=80",
+    heroImage: "https://images.unsplash.com/photo-1612438214708-f428a707dd4e?auto=format&fit=crop&w=1600&q=80",
     thumbImage: "https://images.unsplash.com/photo-1598890777032-bde835ba27c2?auto=format&fit=crop&w=600&q=80",
     traditionalAttire: {
       men: "Kurta-Chadhar with embroidered Phulkari vest and Turla Pagri",
@@ -512,7 +537,7 @@ export const INDIAN_STATES: IndianState[] = [
       "Jaipur blue pottery, Sanganeri wood-block prints, Leheriya tie-dye turbans, and royal Kundan-Meenakari jewellery.",
     fullDescription:
       "Rajasthan is a living canvas of royal craftsmanship. In Bagru and Sanganer, wooden block carvers and master printers print vegetable dyes onto fine mulmul. In Jaipur, master jewellers enamel reverse sides of Kundan gems with royal Meenakari, creating heirlooms fit for palaces.",
-    heroImage: "https://images.unsplash.com/photo-1477587458883-47145ed94245?auto=format&fit=crop&w=1600&q=80",
+    heroImage: "https://images.unsplash.com/photo-1518002171953-a080ee817e1f?auto=format&fit=crop&w=1600&q=80",
     thumbImage: "https://images.unsplash.com/photo-1477587458883-47145ed94245?auto=format&fit=crop&w=600&q=80",
     traditionalAttire: {
       men: "Angrakha jacket, Dhoti, and 52-meter Bandhej Safa (turban)",
@@ -537,8 +562,8 @@ export const INDIAN_STATES: IndianState[] = [
       "Fine Buddhist Thangka scroll paintings, Lepcha backstrap loomed cottons, and carved Choktse foldable tables.",
     fullDescription:
       "Under the majestic gaze of Mount Kanchenjunga, Sikkim preserves profound contemplative arts. Monks and master artists spend months grinding lapis lazuli, cinnabar, and pure gold leaf to paint Buddhist Thangkas, while Lepcha artisans weave geometric motifs symbolizing mountain peaks and rivers.",
-    heroImage: "https://images.unsplash.com/photo-1544735716-392fe2489ffa?auto=format&fit=crop&w=1600&q=80",
-    thumbImage: "https://images.unsplash.com/photo-1544735716-392fe2489ffa?auto=format&fit=crop&w=600&q=80",
+    heroImage: "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1600&q=80",
+    thumbImage: "https://images.unsplash.com/photo-1628155930542-3c7a64e2c833?auto=format&fit=crop&w=600&q=80",
     traditionalAttire: {
       men: "Bakhu (Kho) robe tied with a leather belt and embroidered boots",
       women: "Bakhu silk gown worn over full-sleeved Honju blouse and striped Pangden apron",
@@ -562,7 +587,7 @@ export const INDIAN_STATES: IndianState[] = [
       "World-revered Kanchipuram mulberry silks with pure silver zari temple borders, Thanjavur gold foil art, and Chola bronze casting.",
     fullDescription:
       "Tamil Nadu is the sanctuary of classical Dravidian refinement. The weavers of Kanchipuram—descendants of Sage Markanda—interlock body and border through the ancient Korvai technique, crafting heavyweight silks with pure gold-dipped silver zari motifs inspired by temple gopurams.",
-    heroImage: "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&w=1600&q=80",
+    heroImage: "https://images.unsplash.com/photo-1585130401366-fe05a8d813c4?auto=format&fit=crop&w=1600&q=80",
     thumbImage: "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&w=600&q=80",
     traditionalAttire: {
       men: "Veshti (dhoti) with pure gold zari border and Angavastram",
@@ -587,8 +612,8 @@ export const INDIAN_STATES: IndianState[] = [
       "GI-tagged Pochampally double ikat with kaleidoscopic geometric precision, Gadwal sarees with attached silk borders, and Cheriyal scroll paintings.",
     fullDescription:
       "In Bhoodan Pochampally, weavers tie-dye bundles of silk yarn before weaving them on pit looms, producing world-famous geometric patterns known as Pagdu Bandhu. Combined with Gadwal’s unique technique of joining cotton bodies to pure silk borders, Telangana represents engineering genius in handlooms.",
-    heroImage: "https://images.unsplash.com/photo-1600100397608-f010e42e05df?auto=format&fit=crop&w=1600&q=80",
-    thumbImage: "https://images.unsplash.com/photo-1600100397608-f010e42e05df?auto=format&fit=crop&w=600&q=80",
+    heroImage: "https://images.unsplash.com/photo-1618773928121-c32242e63f39?auto=format&fit=crop&w=1600&q=80",
+    thumbImage: "https://images.unsplash.com/photo-1609766857041-ed402ea8069a?auto=format&fit=crop&w=600&q=80",
     traditionalAttire: {
       men: "Pancha, Kurta, and Kanduva shoulder scarf",
       women: "Pochampally Ikat Saree or Gadwal Saree paired with pearl jewellery",
@@ -612,8 +637,8 @@ export const INDIAN_STATES: IndianState[] = [
       "Indigenous Risa and Rikutu backstrap textiles, world-class bamboo basketry, and royal palace handicrafts.",
     fullDescription:
       "Tripura’s artisan economy is crowned by bamboo and handloom mastery. The Tripuri community’s traditional Risa is a handwoven chest wrap adorned with delicate extra-weft geometric motifs, an indispensable mark of honor in tribal rites.",
-    heroImage: "https://images.unsplash.com/photo-1544735716-392fe2489ffa?auto=format&fit=crop&w=1600&q=80",
-    thumbImage: "https://images.unsplash.com/photo-1544735716-392fe2489ffa?auto=format&fit=crop&w=600&q=80",
+    heroImage: "https://images.unsplash.com/photo-1577717903315-1691ae25ab3f?auto=format&fit=crop&w=1600&q=80",
+    thumbImage: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=600&q=80",
     traditionalAttire: {
       men: "Duti cotton wrap, Kamchwlwi shirt and traditional pagri",
       women: "Rinai wrap skirt, Risa chest wrap, and fine silver coin necklaces",
@@ -637,7 +662,7 @@ export const INDIAN_STATES: IndianState[] = [
       "Imperial Banarasi pure katan silk sarees woven with real zari, Lucknow's 32-stitch Chikankari shadow embroidery, and Moradabad brassware.",
     fullDescription:
       "Uttar Pradesh is the eternal cultural heartland of India. In the sacred ghats of Varanasi, master weavers create Banarasi brocades with real gold and silver zari. In Lucknow, Nawabi needlewomen embroider thirty-two delicate shadow-work stitches (Chikankari) onto sheer mulmul, translating ethereal Mughal court aesthetics to timeless fashion.",
-    heroImage: "https://images.unsplash.com/photo-1561361513-2d000a50f0dc?auto=format&fit=crop&w=1600&q=80",
+    heroImage: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=1600&q=80",
     thumbImage: "https://images.unsplash.com/photo-1561361513-2d000a50f0dc?auto=format&fit=crop&w=600&q=80",
     traditionalAttire: {
       men: "Lucknowi Chikankari Kurta with Churidar and embellished mojari",
@@ -663,7 +688,7 @@ export const INDIAN_STATES: IndianState[] = [
     fullDescription:
       "In the sacred Himalayan reaches of Uttarakhand, artisans weave warm pashmina and sheep wool blankets called Thulmas and Chutkas on traditional pit looms. Women of Kumaon create Aipan—sacred sacred geometric motifs using rice flour paste on vermilion red backgrounds—decorating bridal shawls and temple shrines.",
     heroImage: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1600&q=80",
-    thumbImage: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=600&q=80",
+    thumbImage: "https://images.unsplash.com/photo-1626544827763-d516dce335e2?auto=format&fit=crop&w=600&q=80",
     traditionalAttire: {
       men: "Kurta, Churidar, Woolen waistcoat and Garhwali topi",
       women: "Ghagra-Pichora with gold nath (enormous bridal nose ring) and galobandh collar",
@@ -687,7 +712,7 @@ export const INDIAN_STATES: IndianState[] = [
       "Mythological narrative Baluchari silk sarees, feather-light Dhakai Jamdani muslins, and rustic Kantha running stitch embroidery.",
     fullDescription:
       "Bengal is celebrated for poetic sophistication in weaving. The master weavers of Bishnupur weave scenes from the Mahabharata and Ramayana directly into Baluchari saree pallus using lustrous silk floss. In Bolpur-Santiniketan, women quilt layers of old silk with vibrant Kantha running stitches, creating textured modern heirlooms.",
-    heroImage: "https://images.unsplash.com/photo-1558431382-27e303142255?auto=format&fit=crop&w=1600&q=80",
+    heroImage: "https://images.unsplash.com/photo-1566552881560-0be862a7c445?auto=format&fit=crop&w=1600&q=80",
     thumbImage: "https://images.unsplash.com/photo-1558431382-27e303142255?auto=format&fit=crop&w=600&q=80",
     traditionalAttire: {
       men: "Fine Dhuti and Punjabi kurta with pleated silk chadar",

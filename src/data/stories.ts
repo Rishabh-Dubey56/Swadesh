@@ -10,7 +10,7 @@ export const CULTURE_STORIES: CultureStory[] = [
     authorRole: "Textile Historian & Curator",
     publishDate: "2026-03-15",
     readingTimeMinutes: 7,
-    coverImage: "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1200&q=80",
+    coverImage: "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=1200&q=80",
     summary:
       "From the ghats of Varanasi to Mughal royal courts, explore how master weavers interlace pure silver zari and untwisted mulberry silk to create heirlooms that last generations.",
     content: [
@@ -31,7 +31,7 @@ export const CULTURE_STORIES: CultureStory[] = [
     authorRole: "Craft Guild Coordinator, Srinagar",
     publishDate: "2026-02-28",
     readingTimeMinutes: 8,
-    coverImage: "https://images.unsplash.com/photo-1607522370275-f14206abe5d3?auto=format&fit=crop&w=1200&q=80",
+    coverImage: "https://images.unsplash.com/photo-1628155930542-3c7a64e2c833?auto=format&fit=crop&w=1200&q=80",
     summary:
       "Journey to the windswept Changthang plateau at 14,000 feet, where the underfleece of the Changra goat begins its voyage into the hands of Kashmir's master Sozni embroiderers.",
     content: [
@@ -52,7 +52,7 @@ export const CULTURE_STORIES: CultureStory[] = [
     authorRole: "Indigenous Craft Researcher",
     publishDate: "2026-01-20",
     readingTimeMinutes: 6,
-    coverImage: "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=1200&q=80",
+    coverImage: "https://images.unsplash.com/photo-1596178065887-1198b6148b2b?auto=format&fit=crop&w=1200&q=80",
     summary:
       "Excavated fragments from the Indus Valley civilization prove that Ajrakh is one of humanity's oldest continuous printing traditions. Discover the science and spiritual reverence behind its 16 stages.",
     content: [
@@ -73,7 +73,7 @@ export const CULTURE_STORIES: CultureStory[] = [
     authorRole: "Cultural Anthropologist",
     publishDate: "2026-02-10",
     readingTimeMinutes: 5,
-    coverImage: "https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=1200&q=80",
+    coverImage: "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=1200&q=80",
     summary:
       "Legend holds that Chanderi fabric was first spun by Shishupal during the Mahabharata. Unravel how this Madhya Pradesh hill town creates sarees so translucent they were called woven air.",
     content: [
